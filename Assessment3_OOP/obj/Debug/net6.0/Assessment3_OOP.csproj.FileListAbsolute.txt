@@ -1,0 +1,15 @@
+C:\Users\BHamilton3\DevBuild8_GC\Assessment3_OOP\Assessment3_OOP\bin\Debug\net6.0\Assessment3_OOP.exe
+C:\Users\BHamilton3\DevBuild8_GC\Assessment3_OOP\Assessment3_OOP\bin\Debug\net6.0\Assessment3_OOP.deps.json
+C:\Users\BHamilton3\DevBuild8_GC\Assessment3_OOP\Assessment3_OOP\bin\Debug\net6.0\Assessment3_OOP.runtimeconfig.json
+C:\Users\BHamilton3\DevBuild8_GC\Assessment3_OOP\Assessment3_OOP\bin\Debug\net6.0\Assessment3_OOP.dll
+C:\Users\BHamilton3\DevBuild8_GC\Assessment3_OOP\Assessment3_OOP\bin\Debug\net6.0\Assessment3_OOP.pdb
+C:\Users\BHamilton3\DevBuild8_GC\Assessment3_OOP\Assessment3_OOP\obj\Debug\net6.0\Assessment3_OOP.csproj.AssemblyReference.cache
+C:\Users\BHamilton3\DevBuild8_GC\Assessment3_OOP\Assessment3_OOP\obj\Debug\net6.0\Assessment3_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BHamilton3\DevBuild8_GC\Assessment3_OOP\Assessment3_OOP\obj\Debug\net6.0\Assessment3_OOP.AssemblyInfoInputs.cache
+C:\Users\BHamilton3\DevBuild8_GC\Assessment3_OOP\Assessment3_OOP\obj\Debug\net6.0\Assessment3_OOP.AssemblyInfo.cs
+C:\Users\BHamilton3\DevBuild8_GC\Assessment3_OOP\Assessment3_OOP\obj\Debug\net6.0\Assessment3_OOP.csproj.CoreCompileInputs.cache
+C:\Users\BHamilton3\DevBuild8_GC\Assessment3_OOP\Assessment3_OOP\obj\Debug\net6.0\Assessment3_OOP.dll
+C:\Users\BHamilton3\DevBuild8_GC\Assessment3_OOP\Assessment3_OOP\obj\Debug\net6.0\refint\Assessment3_OOP.dll
+C:\Users\BHamilton3\DevBuild8_GC\Assessment3_OOP\Assessment3_OOP\obj\Debug\net6.0\Assessment3_OOP.pdb
+C:\Users\BHamilton3\DevBuild8_GC\Assessment3_OOP\Assessment3_OOP\obj\Debug\net6.0\Assessment3_OOP.genruntimeconfig.cache
+C:\Users\BHamilton3\DevBuild8_GC\Assessment3_OOP\Assessment3_OOP\obj\Debug\net6.0\ref\Assessment3_OOP.dll
